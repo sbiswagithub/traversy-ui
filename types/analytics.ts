@@ -4,3 +4,4 @@ export interface AnalyticsItem {
   pv: number;
   amt: number;
 }
+
